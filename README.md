@@ -50,7 +50,7 @@
 ### 📈 GitHub Stats  
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=induvara&show_icons=true&theme=default" alt="Induwara's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=induwrawithanage&show_icons=true&theme=default" alt="Induwara's GitHub stats" />
 </p>
 
 ---
